@@ -1,5 +1,4 @@
 {
-      "version": 3,
-      "url": "https://github.com/Opibomb/opinotebooks-apk-download/releases/download/v1.4/app-release.apk",
-      "notes": "New features added!"
-    }
+       "versionCode": 4,
+       "downloadUrl": "https://github.com/Opibomb/opinotebooks-apk-download/releases/download/v1.4/app-release.apk"
+     }
